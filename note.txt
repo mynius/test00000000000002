@@ -16,8 +16,8 @@ git log --oneline	在一行显示提交日志
 
 
 版本回退
-	git reset --hard Head-0		回退到当前项目
-			  ...-1		回退到当前最近一次
+	git reset --hard Head~0		回退到当前项目
+			  ...~1		回退到当前最近一次
 	
 
 
