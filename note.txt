@@ -1,0 +1,5 @@
+git init	≥ı ºªØgit≤÷ø‚
+
+git config --global user.name "mynius"
+
+git config --global user.email "1904352738@qq.com"
