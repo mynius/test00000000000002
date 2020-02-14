@@ -3,3 +3,21 @@ git init	初始化git仓库
 git config --global user.name "mynius"
 
 git config --global user.email "1904352738@qq.com"
+
+git add .
+
+git commit -m "这是我最原始的对项目进行初始化-20200214-14:29"
+
+git commit --all -m "这是把所有修改一次性提交的操作"
+
+git log			查看提交记录
+
+git log --oneline	在一行显示提交日志
+
+
+版本回退
+	git reset --hard Head-0		回退到当前项目
+			  ...-1		回退到当前最近一次
+	
+
+
